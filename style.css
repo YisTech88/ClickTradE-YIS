@@ -1,8 +1,6 @@
-/* Smooth scrolling */
 html {
     scroll-behavior: smooth;
 }
-
 
 body {
     margin: 0;
@@ -388,4 +386,3 @@ body {
             margin-right: 10px;
         }
 }
-
